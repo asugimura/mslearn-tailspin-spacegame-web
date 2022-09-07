@@ -73,7 +73,7 @@ steps:
   parameters:
     buildConfiguration: 'Debug'
 
-- template: tmeplates/build.yml
+- template: templates/build.yml
   parameters:
     buildConfiguration: 'Release'
 
